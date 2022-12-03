@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dknoll1
 - 👀 I’m interested in music and software
-- 🌱 I’m currently learning Web Dev Frameworks and Systems Programming 
+- 🌱 I’m currently learning Data Structures and Full Stack Web Development this Winter
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me .... knoll.daniel@student.greenriver.edu
